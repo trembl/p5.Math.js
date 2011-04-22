@@ -1,7 +1,6 @@
 Javascript implementation of the following Processing convinience methods declared in http://www.google.com/codesearch/p?hl=en#Ej56LtI_pY0/trunk/processing/core/methods/demo/PApplet.java
 
-p5.[sq](http://processing.org/reference/sq_.html)
-
+p5.[sq](http://processing.org/reference/sq_.html) 
 p5.[constrain](http://processing.org/reference/constrain_.html)
 
 p5.[degrees](http://processing.org/reference/degrees_.html)
