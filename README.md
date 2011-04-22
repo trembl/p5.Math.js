@@ -1,4 +1,4 @@
-Javascript implementation of the following Processing convinience methods declared in http://www.google.com/codesearch/p?hl=en#Ej56LtI_pY0/trunk/processing/core/methods/demo/PApplet.java
+Javascript implementation of the following Processing convenience methods declared in http://www.google.com/codesearch/p?hl=en#Ej56LtI_pY0/trunk/processing/core/methods/demo/PApplet.java
 
 p5.[sq](http://processing.org/reference/sq_.html)<br />
 p5.[constrain](http://processing.org/reference/constrain_.html)<br />
