@@ -45,6 +45,9 @@ p5.degrees = function(radians) {
 }
 
 
+p5.radians = function(degrees) {
+	return degrees*(Math.PI/180);
+}
 
 
 /*
