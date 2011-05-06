@@ -24,4 +24,4 @@ Math.[map()](http://processing.org/reference/map_.html)<br />
 
 This code is not checking whether the methods already exist, use it at your own peril.
 
-**Note: Math does not get constructed and instantiated, but rather initialized. Adding methods with Math.prototype.myMethod does not work, rather use Math.myMethod**
+*Note: Math does not get constructed and instantiated, but rather initialized. Adding methods with Math.prototype.myMethod does not work, rather use Math.myMethod*
